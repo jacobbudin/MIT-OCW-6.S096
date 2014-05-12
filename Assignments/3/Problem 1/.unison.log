@@ -1,0 +1,57 @@
+
+
+UNISON 2.40.63 started propagating changes at 22:36:18.15 on 24 Apr 2014
+[BGN] Copying Courses/MIT OCW 6.S096 - Introduction to C and C++ - Tom Lieber/Assignments/3 from /Users/jacobbudin to //li546-216//home/jacobbudin/unison
+[BGN] Copying Courses/MIT OCW 6.S096 - Introduction to C and C++ - Tom Lieber/Exercises/Lecture 3 from /Users/jacobbudin to //li546-216//home/jacobbudin/unison
+[END] Copying Courses/MIT OCW 6.S096 - Introduction to C and C++ - Tom Lieber/Assignments/3
+[END] Copying Courses/MIT OCW 6.S096 - Introduction to C and C++ - Tom Lieber/Exercises/Lecture 3
+UNISON 2.40.63 finished propagating changes at 22:36:18.78 on 24 Apr 2014
+
+
+Synchronization complete at 22:36:18  (2 items transferred, 0 skipped, 0 failed)
+
+
+UNISON 2.40.63 started propagating changes at 14:25:56.08 on 26 Apr 2014
+[BGN] Copying Courses/MIT OCW 6.S096 - Introduction to C and C++ - Tom Lieber/Assignments/3/Problem 1/.unison.log from /Users/jacobbudin to //li546-216//home/jacobbudin/unison
+[BGN] Copying properties for Projects/Job search/Prism Skylabs/prism-subset/.git/info/refs from /Users/jacobbudin to //li546-216//home/jacobbudin/unison
+[BGN] Copying properties for Projects/Job search/Prism Skylabs/prism-subset/.git/logs/HEAD from /Users/jacobbudin to //li546-216//home/jacobbudin/unison
+[BGN] Copying properties for Projects/Job search/Prism Skylabs/prism-subset/.git/logs/refs/heads/master from /Users/jacobbudin to //li546-216//home/jacobbudin/unison
+[BGN] Copying properties for Projects/Job search/Prism Skylabs/prism-subset/.git/logs/refs/remotes/origin/master from /Users/jacobbudin to //li546-216//home/jacobbudin/unison
+[BGN] Copying properties for Projects/Job search/Prism Skylabs/prism-subset/.git/objects/info/packs from /Users/jacobbudin to //li546-216//home/jacobbudin/unison
+[BGN] Copying properties for Projects/Job search/Prism Skylabs/prism-subset/.git/objects/pack/pack-a0309cc7d180e816dde8cf0d2d109fae243451ea.idx from /Users/jacobbudin to //li546-216//home/jacobbudin/unison
+[BGN] Copying properties for Projects/Job search/Prism Skylabs/prism-subset/.git/objects/pack/pack-a0309cc7d180e816dde8cf0d2d109fae243451ea.pack from /Users/jacobbudin to //li546-216//home/jacobbudin/unison
+[BGN] Copying properties for Projects/Job search/Prism Skylabs/prism-subset/.git/packed-refs from /Users/jacobbudin to //li546-216//home/jacobbudin/unison
+[BGN] Copying Resources/1Password.agilekeychain/data/default/B85F7F495C2F4D21B6A1B754613F145A.1password from /Users/jacobbudin to //li546-216//home/jacobbudin/unison
+[BGN] Updating file Resources/1Password.agilekeychain/data/default/contents.js from /Users/jacobbudin to //li546-216//home/jacobbudin/unison
+[END] Copying properties for Projects/Job search/Prism Skylabs/prism-subset/.git/info/refs
+[END] Copying properties for Projects/Job search/Prism Skylabs/prism-subset/.git/logs/HEAD
+[END] Copying properties for Projects/Job search/Prism Skylabs/prism-subset/.git/logs/refs/heads/master
+[END] Copying properties for Projects/Job search/Prism Skylabs/prism-subset/.git/logs/refs/remotes/origin/master
+[END] Copying properties for Projects/Job search/Prism Skylabs/prism-subset/.git/objects/info/packs
+[END] Copying properties for Projects/Job search/Prism Skylabs/prism-subset/.git/objects/pack/pack-a0309cc7d180e816dde8cf0d2d109fae243451ea.idx
+[END] Copying properties for Projects/Job search/Prism Skylabs/prism-subset/.git/objects/pack/pack-a0309cc7d180e816dde8cf0d2d109fae243451ea.pack
+[END] Copying properties for Projects/Job search/Prism Skylabs/prism-subset/.git/packed-refs
+Failed: The source file /Users/jacobbudin/Courses/MIT OCW 6.S096 - Introduction to C and C++ - Tom Lieber/Assignments/3/Problem 1/.unison.log
+has been modified during synchronization.  Transfer aborted.
+[END] Copying Resources/1Password.agilekeychain/data/default/B85F7F495C2F4D21B6A1B754613F145A.1password
+[END] Updating file Resources/1Password.agilekeychain/data/default/contents.js
+UNISON 2.40.63 finished propagating changes at 14:25:56.23 on 26 Apr 2014
+
+
+Synchronization incomplete at 14:25:56  (10 items transferred, 0 skipped, 1 failed)
+  failed: Courses/MIT OCW 6.S096 - Introduction to C and C++ - Tom Lieber/Assignments/3/Problem 1/.unison.log
+
+
+UNISON 2.40.63 started propagating changes at 14:26:01.87 on 26 Apr 2014
+[BGN] Copying Courses/MIT OCW 6.S096 - Introduction to C and C++ - Tom Lieber/Assignments/3/Problem 1/.unison.log from /Users/jacobbudin to //li546-216//home/jacobbudin/unison
+Failed: The source file /Users/jacobbudin/Courses/MIT OCW 6.S096 - Introduction to C and C++ - Tom Lieber/Assignments/3/Problem 1/.unison.log
+has been modified during synchronization.  Transfer aborted.
+[BGN] Deleting Courses/MIT OCW 6.S096 - Introduction to C and C++ - Tom Lieber/Assignments/3/Problem 1/.sort.c.swp from //li546-216//home/jacobbudin/unison
+[BGN] Deleting Courses/MIT OCW 6.S096 - Introduction to C and C++ - Tom Lieber/Exercises/Lecture 3/Assignment 2/.hakuna.c.swp from //li546-216//home/jacobbudin/unison
+[END] Deleting Courses/MIT OCW 6.S096 - Introduction to C and C++ - Tom Lieber/Assignments/3/Problem 1/.sort.c.swp
+[END] Deleting Courses/MIT OCW 6.S096 - Introduction to C and C++ - Tom Lieber/Exercises/Lecture 3/Assignment 2/.hakuna.c.swp
+UNISON 2.40.63 finished propagating changes at 14:26:01.96 on 26 Apr 2014
+
+
+Synchronization incomplete at 14:26:02  (2 items transferred, 0 skipped, 1 failed)
+  failed: Courses/MIT OCW 6.S096 - Introduction to C and C++ - Tom Lieber/Assignments/3/Problem 1/.unison.log

@@ -1,0 +1,36 @@
+# osx noise
+.DS_Store
+profile
+
+# xcode noise
+build/*
+*.mode1
+*.mode1v3
+*.mode2v3
+*.perspective
+*.perspectivev3
+*.pbxuser
+*.xcworkspace
+xcuserdata
+
+# svn & cvs
+.svn
+CVS
+
+# vim
+*.sw[op]
+
+Assignments/1/fibeverse
+Assignments/3/Problem 1/sort
+Assignments/3/Problem 2/resize
+Assignments/4/a.out
+Assignments/4/main
+Assignments/5/p1_grades
+Assignments/5/p2
+Assignments/6/rps
+Exercises/Lecture 3/Assignment 1/square
+Exercises/Lecture 3/Assignment 2/hakuna
+Exercises/Lecture 4/Exercise 1/main
+Exercises/Lecture 4/Exercise 2/main
+Exercises/Lecture 4/Exercise 3/main
+Exercises/Lecture 6/lab6
